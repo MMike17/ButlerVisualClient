@@ -20,7 +20,7 @@ Each project has a name, cover image and the platforms for which it has a build.
 
 ### Support
 
-This tool only supports the following platforms :
+This tool only supports uploads for the following platforms :
 - Windows 64
 - Linux
 - Android
@@ -39,3 +39,8 @@ Then press the "Upload build" button, which will start the sending process throu
 This software is provided "as is".\
 I am not responsible for any damage this software or its misuse could inflict on your system.\
 If this tool doesn't work or if you want to use a feature that is not supported, you should visit the [butler.exe docs page](https://itch.io/docs/butler/pushing.html).
+
+## Builds
+
+For now, the only available build is for Windows.\
+Feel free to build your own version (**Unity version 2019.3.10f1**).
